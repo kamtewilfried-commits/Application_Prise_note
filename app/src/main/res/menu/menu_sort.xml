@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/sort_title"
+        android:title="Trier par titre" />
+    <item android:id="@+id/sort_date_creation"
+        android:title="Trier par date de création" />
+    <item android:id="@+id/sort_date_modification"
+        android:title="Trier par date de modification" />
+</menu>
